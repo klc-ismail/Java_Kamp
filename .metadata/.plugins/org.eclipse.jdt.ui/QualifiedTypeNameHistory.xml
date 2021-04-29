@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.Float"/>
+    <fullyQualifiedTypeName name="java.lang.StrictMath"/>
+    <fullyQualifiedTypeName name="oopIntro.Product"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="inheritance2.CustomerManager"/>
+    <fullyQualifiedTypeName name="inheritance2.DataBaseLogger"/>
+    <fullyQualifiedTypeName name="inheritance2.EmailLogger"/>
+</qualifiedTypeNameHistroy>
