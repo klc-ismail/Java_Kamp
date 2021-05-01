@@ -9,4 +9,10 @@
     <fullyQualifiedTypeName name="inheritance2.DataBaseLogger"/>
     <fullyQualifiedTypeName name="inheritance2.EmailLogger"/>
     <fullyQualifiedTypeName name="odev2.InstructorManager"/>
+    <fullyQualifiedTypeName name="interfaces.Logger"/>
+    <fullyQualifiedTypeName name="interfaces.DatabaseLogger"/>
+    <fullyQualifiedTypeName name="interfaces.CustomerManager"/>
+    <fullyQualifiedTypeName name="interfaces.SmsLogger"/>
+    <fullyQualifiedTypeName name="interfaces.EmailLogger"/>
+    <fullyQualifiedTypeName name="interfaces.FileLogger"/>
 </qualifiedTypeNameHistroy>
