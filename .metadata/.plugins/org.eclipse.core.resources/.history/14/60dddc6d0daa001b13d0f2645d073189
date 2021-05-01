@@ -1,0 +1,25 @@
+package odev2;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Instructor instructor1 = new Instructor();
+		instructor1.setId(1); 
+		instructor1.setFirstname("Engin ");
+		instructor1.setLastname("Demiroğ");
+		
+		
+		
+		Student student1 = new Student();
+		student1.setId(1);
+		student1.setFirstname("İsmail");
+		student1.setLastname("Kılıç");
+		
+		
+		
+		StudentManager students = new StudentManager();
+		students.add(student1 + instructor1);
+		
+	}
+
+}

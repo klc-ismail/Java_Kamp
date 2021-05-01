@@ -8,4 +8,5 @@
     <fullyQualifiedTypeName name="inheritance2.CustomerManager"/>
     <fullyQualifiedTypeName name="inheritance2.DataBaseLogger"/>
     <fullyQualifiedTypeName name="inheritance2.EmailLogger"/>
+    <fullyQualifiedTypeName name="odev2.InstructorManager"/>
 </qualifiedTypeNameHistroy>
